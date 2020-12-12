@@ -32,7 +32,7 @@ body {
 
   font-size: 70px;
 
-  color: #919091;
+  color: #5d575d;
 
 }
 
@@ -68,6 +68,8 @@ body {
 
   text-align: center;
 
+  margin-left: 10px;
+
 }
 
 .store-details { /* This is the div that contains the text */
@@ -80,7 +82,7 @@ body {
 
 .category-heading {
 
-  color: #919091;
+  color: #5d575d;
 
   font-size: 30px;
 
@@ -94,7 +96,7 @@ body {
 
   padding-left: 15px;
 
-  color: #919091; /* this will make sure the bullet points turn dark yellow! */
+  color:#5d575d; /* this will make sure the bullet points turn dark yellow! */
 
 }
 
@@ -110,7 +112,7 @@ body {
 
 .store-link {
 
-  color: #919091;
+  color: #5d4984;
 
   font-size: 20px;
 
@@ -136,7 +138,7 @@ body {
 
 .created-by {
 
-  color: #919091;
+  color: #5d575d;
 
   font-size: 20px;
 
